@@ -18,5 +18,7 @@ My Dagger iteration algorithm:
 3) Data Aggregation: The new observations and expert actions are added to the training data.
 4) Policy Refinement: The policy is re-trained using the aggregated dataset.
 5) Model Saving: The updated model is saved after each iteration.
+
+
 Dagger implementation can be found in dagger.py file.
 
