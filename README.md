@@ -9,6 +9,9 @@ Architecture:
 
 Used DAgger to improve my reward after regression models were applied. 
 
+
+
+
 My Dagger iteration algorithm:
 1) Policy Execution: The learned policy (infer_action) is executed in the environment, generating an episode of behavior.
 2) Expert Correction: An expert provides corrective actions for “each state” encountered during policy execution. All the states in the episode are saved. Expert data is collected using a timer.
