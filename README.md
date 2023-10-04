@@ -22,3 +22,9 @@ My Dagger iteration algorithm:
 
 Dagger implementation can be found in dagger.py file.
 
+
+Packages required:
+1) pytorch
+2) opencv
+3) box2d
+4) numpy
